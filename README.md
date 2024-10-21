@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imen Ayadi</h1>
 <h3 align="center">Data Analyst and Business Intelligence Specialist passionate about uncovering insights through data.</h3>
-<p align="center"><img src="https://media.tenor.com/XI_nFYxQnFEAAAAC/coding-girl.gif" alt="Coding Girl" /></p>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imen-ayadi" alt="imen-ayadi" /></a> </p>
