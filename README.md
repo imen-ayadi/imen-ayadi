@@ -1,3 +1,53 @@
+<h1 align="center">Hi 👋, I'm Imen Ayadi</h1>
+<h3 align="center">Data Analyst and Business Intelligence Specialist passionate about uncovering insights through data.</h3>
+
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=imen-ayadi&margin-w=5&row=1&column=6&theme=flat&no-frame=true" alt="GitHub Trophy">
+  </a>
+</p>
+
+---
+
+### 🔭 I’m currently working on
+- [Olympic 2024 Data Visualization Dashboard](https://github.com/imen-ayadi/Olympics_2024)
+
+### 🌱 I’m currently learning
+- Power BI advanced reporting and Google Data Studio
+
+### 👯 I’m looking to collaborate on
+- Business Intelligence and Data Analysis Projects
+
+### 🤝 I’m looking for help with
+- Advanced Data Visualization and ETL processes
+
+### 👨‍💻 All of my projects are available at
+- [My Portfolio](https://imenayadi.wixsite.com/imen-ayadi)
+
+### 💬 Ask me about
+- Power BI, SQL, Tableau, and Data Visualization
+
+### 📫 How to reach me
+- Email: [imenayadi86@gmail.com](mailto:imenayadi86@gmail.com)
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/imen-ayadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://kaggle.com/imen-ayadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://fb.com/imen-ayadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/AnalyticsSimplified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+
+---
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!-- Front-end -->
@@ -48,4 +98,19 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
   </a>
+</p>
+
+
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imen-ayadi&show_icons=true&locale=en&layout=compact" alt="imen-ayadi" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imen-ayadi&show_icons=true&locale=en" alt="imen-ayadi" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imen-ayadi&" alt="imen-ayadi" />
 </p>
