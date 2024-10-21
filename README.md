@@ -49,14 +49,12 @@
     <img align="center" src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://imenayadi.wixsite.com/imen-ayadi" target="blank">
-    <img align="center" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-link-web-seo-flatart-icons-outline-flatarticons.png" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/ios/50/000000/portfolio.png" alt="Portfolio" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@AnalyticsSimplified-IA" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
-
-
 
 ---
 <h3 align="center">Languages and Tools:</h3>
