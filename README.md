@@ -28,8 +28,9 @@
 ### 👯 I’m looking to collaborate on
 - Business Intelligence and Data Analysis Projects
 
-### 🤝 I’m looking for help with
-- Advanced Data Visualization and ETL processes
+### 🤝 Seeking Guidance In
+- **Advanced Data Visualization Techniques** - Creating impactful, engaging reports.
+- **Optimized ETL Processes** - Efficient data handling within BI workflows.
 
 ### 👨‍💻 All of my projects are available at
 - [My Portfolio](https://imenayadi.wixsite.com/imen-ayadi)
