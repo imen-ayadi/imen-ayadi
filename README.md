@@ -33,7 +33,7 @@
 - **Optimized ETL Processes** - Efficient data handling within BI workflows.
 
 ### 👨‍💻 All of my projects are available at
-- [My Portfolio](https://imenayadi.wixsite.com/imen-ayadi)
+- **[Explore My Projects](https://imenayadi.wixsite.com/imen-ayadi)** - View my portfolio of BI and data visualization work.
 
 ### 💬 Ask me about
 - Power BI, SQL, Tableau, and Data Visualization
