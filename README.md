@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/imen-ayadi/imen-ayadi/blob/main/bglinkedin.jfif" alt="Banner" width="100%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Imen Ayadi</h1>
 <h3 align="center">Data Analyst and Business Intelligence Specialist passionate about uncovering insights through data.</h3>
 
