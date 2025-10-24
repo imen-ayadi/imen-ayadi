@@ -1,4 +1,11 @@
-<p align="center"> <img src="https://github.com/imen-ayadi/imen-ayadi/blob/main/bglinkedin.jfif" alt="Banner" width="100%" /> </p> <h1 align="center">Hi 👋, I'm Imen Ayadi</h1> <h3 align="center">Data Analyst | BI Specialist | Storyteller with Data</h3> <p align="center"> <img align="center" alt="Coding Animation" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> </p>
+<p align="center"> 
+  <img src="https://github.com/imen-ayadi/imen-ayadi/blob/main/bglinkedin.jfif" alt="Banner" width="100%" /> 
+</p> 
+<h1 align="center">Hi 👋, I'm Imen Ayadi</h1> 
+<h3 align="center">Data Analyst | BI Specialist | Storyteller with Data</h3> 
+<p align="center"> 
+  <img align="center" alt="Coding Animation" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
+</p>
 ---
 
 <p align="center">
