@@ -1,13 +1,101 @@
-<p align="center"> 
-  <img src="https://github.com/imen-ayadi/imen-ayadi/blob/main/bglinkedin.jfif" alt="Banner" width="100%" /> 
-</p> 
-<h1 align="center">Hi 👋, I'm Imen Ayadi</h1> 
-<h3 align="center">Data Analyst | BI Specialist | Storyteller with Data</h3> 
-<p align="center"> 
-  <img align="center" alt="Coding Animation" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
+<p align="center">
+  <img src="https://github.com/imen-ayadi/imen-ayadi/blob/main/bglinkedin.jfif" alt="Banner" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Imen Ayadi</h1>
+<h3 align="center">Data Analyst | BI Specialist | Storyteller with Data</h3>
+
+<p align="center">
+  <img align="center" alt="Coding Animation" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+</p>
+
 ---
 
+## 👩‍💻 About Me
+
+I'm a **data storyteller** passionate about transforming numbers into meaningful insights.  
+I combine analytical thinking, creativity, and strong BI tools knowledge to craft **interactive dashboards** and **data-driven stories** that empower decision-makers.  
+
+📊 Currently focusing on **Power BI**, **Python**, and **R** to uncover insights that truly matter.  
+🌱 Learning **advanced data visualization** and **optimized ETL pipelines**.  
+💡 I believe every dataset has a story — my mission is to tell it beautifully.
+
+---
+
+## 🔭 Current Projects
+
+- [🏅 Olympic 2024 Data Visualization Dashboard](https://github.com/imen-ayadi/Olympics_2024)
+- [🧾 HR Analytics Dashboard – Power BI](https://github.com/imen-ayadi/HR_Analytics)
+- [🛍️ Retail Sales Insights Dashboard](https://github.com/imen-ayadi/Retail_Insights)
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🥇 **Google Data Analytics Capstone Finalist**
+- 📊 Built **Power BI dashboards** adopted by humanitarian projects for impact tracking
+- 🧠 Processed & analyzed **10,000+ survey responses** to guide data-driven field decisions
+- 💼 3+ years of experience in **Business Intelligence** and **Data Visualization**
+
+---
+
+## 📊 Featured Dashboards
+
+| Project | Preview | Tools |
+|----------|----------|--------|
+| [Olympics 2024 Dashboard](https://github.com/imen-ayadi/Olympics_2024) | <img src="https://github.com/imen-ayadi/Olympics_2024/blob/main/dashboard_preview.png" width="300"/> | Power BI |
+| [Retail Sales Insights](https://github.com/imen-ayadi/Retail_Insights) | <img src="https://github.com/imen-ayadi/Retail_Insights/blob/main/sales_dashboard.png" width="300"/> | Tableau |
+| [HR Analytics Report](https://github.com/imen-ayadi/HR_Analytics) | <img src="https://github.com/imen-ayadi/HR_Analytics/blob/main/hr_dashboard.png" width="300"/> | Power BI |
+
+---
+
+## 🎓 Certifications
+
+- [Google Data Analytics Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics)
+- [Microsoft Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
+- [IBM Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
+
+---
+
+## 🧠 Tech Stack
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 💬 Ask Me About
+
+- 📊 Power BI, SQL, and Tableau  
+- 🧩 Data Cleaning and ETL Processes  
+- 🎨 Storytelling with Data  
+- 💡 Turning raw data into clear business insights  
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Business Intelligence and Data Analytics Projects  
+- Nonprofit or humanitarian data storytelling projects  
+- Advanced data visualization and dashboard automation  
+
+---
+
+## 🌍 Fun Facts
+
+- ☕ Coffee + Clean Data = Productivity ☕  
+- 🎬 I run a YouTube channel: [Analytics Simplified - IA](https://www.youtube.com/@AnalyticsSimplified-IA)  
+- 🎨 I love designing minimalist, human-centered dashboards  
+
+---
+
+<h3 align="center">🏅 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=imen-ayadi&margin-w=5&row=1&column=6&theme=flat&no-frame=true" alt="GitHub Trophy">
@@ -16,30 +104,24 @@
 
 ---
 
-### 🔭 I’m currently working on
-- [Olympic 2024 Data Visualization Dashboard](https://github.com/imen-ayadi/Olympics_2024)
+<h3 align="center">📈 GitHub Stats</h3>
 
-### 🌱 I’m currently learning
-- Power BI advanced reporting and Google Data Studio
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imen-ayadi&show_icons=true&locale=en&theme=default" alt="imen-ayadi" />
+</p>
 
-### 👯 I’m looking to collaborate on
-- Business Intelligence and Data Analysis Projects
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imen-ayadi&theme=default" alt="imen-ayadi" />
+</p>
 
-### 🤝 Seeking Guidance In
-- **Advanced Data Visualization Techniques** - Creating impactful, engaging reports.
-- **Optimized ETL Processes** - Efficient data handling within BI workflows.
-
-### 👨‍💻 All of my projects are available at
-- **[Explore My Projects](https://imenayadi.wixsite.com/imen-ayadi)** - View my portfolio of BI and data visualization work.
-
-### 💬 Ask me about
-- Power BI, SQL, Tableau, and Data Visualization
-
-### 📫 How to reach me
-- Email: [imenayadi86@gmail.com](mailto:imenayadi86@gmail.com)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imen-ayadi&show_icons=true&locale=en&layout=compact" alt="imen-ayadi" />
+</p>
 
 ---
-<h3 align="center">Connect with me:</h3>
+
+<h3 align="center">🤝 Connect with Me</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/imen-ayadi-29255617a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -59,52 +141,15 @@
 </p>
 
 ---
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <!-- Front-end -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  
-  <!-- Programming Languages -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="50" height="50"/>
-  </a>
 
-  <!-- Machine Learning -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/>
-  </a>
-</p>
+## 📬 Let’s Collaborate
+
+💌 Reach me anytime at [imenayadi86@gmail.com](mailto:imenayadi86@gmail.com)  
+or connect professionally on [LinkedIn](https://www.linkedin.com/in/imen-ayadi-29255617a/).
+
 ---
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imen-ayadi&show_icons=true&locale=en&layout=compact" alt="imen-ayadi" />
-</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imen-ayadi&show_icons=true&locale=en" alt="imen-ayadi" />
+  <i>“Data is the voice of reality — my job is to make sure it’s heard clearly.”</i>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imen-ayadi&" alt="imen-ayadi" />
-</p>
