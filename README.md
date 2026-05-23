@@ -46,19 +46,28 @@
 
 > *"A Finance background taught me how data drives decisions. Data Engineering gave me the tools to act on it."*
 
-I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), building the pipelines and dashboards that help organisations make better decisions — from humanitarian field operations to e-commerce analytics.
+<br/>
 
-```text
-🔧  ETL Pipelines     Python · Talend · PostgreSQL · Star Schema
-📊  BI & Reporting    Power BI · DAX · Tableau · Looker Studio
-☁️  Cloud & DevOps    Azure · Docker · Git
-🤖  ML & NLP          Scikit-learn · Transformers · RoBERTa · BERT
-🌍  Domain            Humanitarian Data · Healthcare · E-commerce
-```
-
-- 🏢 Currently: **Data Engineer @ IMPACT Initiatives** — Sudan & Libya
-- 🎓 MSc Data Analytics, ESB Tunis &nbsp;·&nbsp; BSc Finance, MSB Tunis
-- 📺 Running **[Analytics Simplified](https://www.youtube.com/@AnalyticsSimplified-IA)** on YouTube
+<table>
+  <tr>
+    <td>🏢</td><td><b>Now</b></td><td>Data Engineer @ <b>IMPACT Initiatives</b> — Sudan &amp; Libya operations</td>
+  </tr>
+  <tr>
+    <td>🎓</td><td><b>Education</b></td><td>MSc Data Analytics <b>(16.5/20)</b> · BSc Finance — Tunis, Tunisia</td>
+  </tr>
+  <tr>
+    <td>🔧</td><td><b>Build</b></td><td>ETL pipelines · Star-schema warehouses · Power BI dashboards</td>
+  </tr>
+  <tr>
+    <td>🤖</td><td><b>Research</b></td><td>NLP capstone — RoBERTa · BERT · LLaMA-2 · Hugging Face</td>
+  </tr>
+  <tr>
+    <td>🌍</td><td><b>Domain</b></td><td>Humanitarian Data · Healthcare · E-commerce</td>
+  </tr>
+  <tr>
+    <td>📺</td><td><b>Create</b></td><td><a href="https://www.youtube.com/@AnalyticsSimplified-IA">Analytics Simplified</a> — data insights on YouTube</td>
+  </tr>
+</table>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
