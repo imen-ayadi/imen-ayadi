@@ -6,19 +6,20 @@
 </p>
 
 <h1 align="center">Hi, I'm Imen Ayadi</h1>
-<h2 align="center">Data Analyst | BI Specialist | Storyteller with Data</h2>
+<h3 align="center">Data Engineer &nbsp;·&nbsp; BI Developer &nbsp;·&nbsp; ETL Specialist</h3>
+<p align="center">MSc Data Analytics &nbsp;·&nbsp; Tunis, Tunisia &nbsp;·&nbsp; Open to opportunities</p>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+out+my+featured+dashboards;Follow+for+data+insights+%26+updates)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Data+Engineer+%7C+BI+Developer;Building+pipelines+that+power+decisions;Humanitarian+data+for+real-world+impact)
 
 </div>
 
 <p align="center">
-  <a href="https://imenayadi.wixsite.com/imen-ayadi">
-    <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+  <a href="https://imen-ayadi.github.io">
+    <img src="https://img.shields.io/badge/My%20Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/imen-ayadi-29255617a/">
-    <img src="https://img.shields.io/badge/My LinkedIn-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
+    <img src="https://img.shields.io/badge/My%20LinkedIn-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
 </p>
 
 <p>
@@ -40,7 +41,7 @@
 
 ---
 
-### 🛠️ Top Technical Skills & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,postgresql,sqlserver,git,docker&perline=6" style="height:105px;"/> &nbsp;
@@ -48,9 +49,10 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/> &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/> &nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="28"/> &nbsp;
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/> &nbsp;
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/> &nbsp;
+  <img src="https://img.shields.io/badge/Talend-FF6D00?style=flat-square&logoColor=white" height="28"/> &nbsp;
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28"/>
 </p>
 
@@ -58,35 +60,41 @@
 
 ### 👩‍💻 About Me
 
-I'm a **data storyteller** passionate about transforming numbers into meaningful insights.
-I combine analytical thinking, creativity, and strong BI expertise to craft **interactive dashboards** and **data-driven stories** that empower decision-makers.
+I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics, specialised in building ETL pipelines, star-schema warehouses, and interactive Power BI dashboards that turn raw data into real decisions.
 
-- 📊 Currently focusing on **Power BI**, **Python**, and **R** to uncover insights that truly matter
-- 🌱 Learning **advanced data visualization** and **optimized ETL pipelines**
-- 💡 I believe every dataset has a story — my mission is to tell it beautifully
-- ☕ Coffee + Clean Data = Productivity
+I've worked in humanitarian data with **IMPACT Initiatives** — building data infrastructure for field operations in Sudan and Libya.
 
-> *"Data is the voice of reality — my job is to make sure it's heard clearly."*
+- 🔧 Building **ETL pipelines** with Python, Talend, and PostgreSQL
+- 📊 Designing **Power BI dashboards** from 1K to 100K+ row datasets
+- 🌍 Real-world **humanitarian analytics** experience (Sudan · Libya)
+- 🤖 MSc capstone: AI email system using RoBERTa, BERT & LLaMA-2
+- 🎓 MSc Data Analytics (16.5/20) &nbsp;·&nbsp; BSc Finance
 
----
-
-### 🔭 Featured Dashboards
-
-| Project | Tools |
-|--------|-------|
-| [🏅 Olympic 2024 Data Visualization Dashboard](https://github.com/imen-ayadi/Olympics_2024) | Power BI |
-| [🧾 HR Analytics Dashboard](https://github.com/imen-ayadi/HR_Analytics) | Power BI |
-| [🛍️ Retail Sales Insights Dashboard](https://github.com/imen-ayadi/Retail_Insights) | Tableau |
+> *"A Finance background taught me how data drives decisions. Data Engineering gave me the tools to act on it."*
 
 ---
 
-### 🏆 Highlights & Achievements
+### 🔭 Featured Projects
 
-- 🥇 **Google Data Analytics Capstone Finalist**
-- 📊 Built **Power BI dashboards** adopted by humanitarian projects for impact tracking
-- 🧠 Processed & analyzed **10,000+ survey responses** to guide data-driven field decisions
-- 💼 **3+ years** of experience in Business Intelligence and Data Visualization
-- 🎓 Certified: **Google Data Analytics** · **Microsoft PL-300** · **IBM Data Visualization with Python**
+| Project | Stack | Link |
+|---------|-------|------|
+| 🌍 Sudan Humanitarian Data Infrastructure | PostgreSQL · Python · Azure · Power BI | [IMPACT Initiatives](https://www.impact-initiatives.org) |
+| 🏅 Olympic Games 2024 Dashboard | Power BI · DAX · Bing Maps | [GitHub](https://github.com/imen-ayadi/Olympics_2024) |
+| 🏥 National Health Analysis — 55K records | Power BI · Excel · Power Query | [GitHub](https://github.com/imen-ayadi/-National-Health-Analysis-Power-BI-Dashboard) |
+| 🕊️ Palestine-Israel Conflict Dashboard | Power BI · DAX · Data Journalism | [GitHub](https://github.com/imen-ayadi/Palestine-Israel-Conflict-Power-BI-Dashboard) |
+| 🛍️ Olist Sales Analysis — 99K+ orders | Power BI · Talend ETL · XGBoost · Python | [GitHub](https://github.com/imen-ayadi/Olist) |
+| 🏠 Libyan Household Realities | Power BI · DAX · Excel | [IMPACT Initiatives](https://www.impact-initiatives.org) |
+| 🤖 Smart Box — AI Email Management | Python · RoBERTa · BERT · LLaMA-2 · Docker | [GitHub](https://github.com/imen-ayadi/Smart-Box) |
+
+---
+
+### 🏆 Highlights
+
+- 🥇 **Best Project Award 2023** — Olist Sales Analysis (ETL + ML + BI pipeline)
+- 🌍 Humanitarian data engineering at **IMPACT Initiatives** — Sudan & Libya operations
+- 📊 Power BI dashboards used in real-world field decision-making
+- 🤖 Built end-to-end NLP system (Smart Box) for automated email management
+- 🎓 Certified: **Google Data Analytics** · **Microsoft PL-300** · **IBM Data Visualization**
 
 ---
 
