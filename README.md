@@ -29,6 +29,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=25C49A&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+BI+Developer+%7C+ETL+Specialist;Building+pipelines+that+power+decisions+%F0%9F%94%A7;Turning+raw+data+into+real-world+impact+%F0%9F%8C%8D;MSc+Data+Analytics+%C2%B7+Tunis%2C+Tunisia+%F0%9F%8C%BF"/>
 </p>
 
+<!-- PORTFOLIO CTA -->
+<p align="center">
+  <a href="https://imen-ayadi.github.io">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a7a64,25c49a&height=60&text=🌐%20%20View%20My%20Full%20Portfolio%20%20→&fontSize=22&fontColor=ffffff&animation=fadeIn" width="480"/>
+  </a>
+</p>
+<p align="center"><sub>Projects · Experience · Certifications · Contact — all in one place</sub></p>
+
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
 
