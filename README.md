@@ -35,10 +35,6 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
 > *"A Finance background taught me how data drives decisions. Data Engineering gave me the tools to act on it."*
 
 I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), building the pipelines and dashboards that help organisations make better decisions — from humanitarian field operations to e-commerce analytics.
@@ -54,13 +50,6 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 - 🏢 Currently: **Data Engineer @ IMPACT Initiatives** — Sudan & Libya
 - 🎓 MSc Data Analytics, ESB Tunis &nbsp;·&nbsp; BSc Finance, MSB Tunis
 - 📺 Running **[Analytics Simplified](https://www.youtube.com/@AnalyticsSimplified-IA)** on YouTube
-
-</td>
-<td valign="top" width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="320" alt="She codes"/>
-</td>
-</tr>
-</table>
 
 <br/>
 
