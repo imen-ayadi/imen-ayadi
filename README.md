@@ -24,11 +24,20 @@
   <img src="https://img.shields.io/badge/Open_to_opportunities-25c49a?style=flat-square&logoColor=white"/>
 </p>
 
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=25C49A&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+BI+Developer+%7C+ETL+Specialist;Building+pipelines+that+power+decisions+%F0%9F%94%A7;Turning+raw+data+into+real-world+impact+%F0%9F%8C%8D;MSc+Data+Analytics+%C2%B7+Tunis%2C+Tunisia+%F0%9F%8C%BF"/>
+</p>
+
 <br/>
 
 ---
 
 ## 👩‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 > *"A Finance background taught me how data drives decisions. Data Engineering gave me the tools to act on it."*
 
@@ -42,9 +51,16 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 🌍  Domain            Humanitarian Data · Healthcare · E-commerce
 ```
 
-- 🏢 Currently: **Data Engineer @ IMPACT Initiatives** — humanitarian analytics for Sudan & Libya
+- 🏢 Currently: **Data Engineer @ IMPACT Initiatives** — Sudan & Libya
 - 🎓 MSc Data Analytics, ESB Tunis &nbsp;·&nbsp; BSc Finance, MSB Tunis
-- 📺 Running **[Analytics Simplified](https://www.youtube.com/@AnalyticsSimplified-IA)** — data insights on YouTube
+- 📺 Running **[Analytics Simplified](https://www.youtube.com/@AnalyticsSimplified-IA)** on YouTube
+
+</td>
+<td valign="top" width="40%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Data animation"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -113,6 +129,14 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 <td>🎓</td><td>Certified: <b>Google Data Analytics</b> · <b>Microsoft PL-300</b> · <b>IBM Data Visualization</b> · <b>DeepLearning.AI</b></td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+## 📊 Activity Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imen-ayadi&theme=react-dark&color=25c49a&line=25c49a&point=ffffff&area=true&area_color=1a7a64&hide_border=true"/>
 
 <br/>
 
