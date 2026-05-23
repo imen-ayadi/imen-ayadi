@@ -57,7 +57,7 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 
 </td>
 <td valign="top" width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Data animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="320" alt="She codes"/>
 </td>
 </tr>
 </table>
