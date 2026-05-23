@@ -1,118 +1,149 @@
-<p align="center">
-  <a href="https://www.kaggle.com/imenayadi">
-    <img src="https://img.shields.io/badge/Kaggle%20Contributor%20🇹🇳-262827?style=flat-square&logo=kaggle" style="height:32px; object-fit:contain;"/></a> &nbsp;
-  <a href="https://www.youtube.com/@AnalyticsSimplified-IA">
-    <img src="https://img.shields.io/badge/YouTube%20·%20Analytics%20Simplified%20🎬-262827?style=flat-square&logo=youtube" style="height:32px; object-fit:contain;"/></a>
-</p>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a7a64,25c49a&height=180&section=header&text=Imen%20Ayadi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20BI%20Developer%20%C2%B7%20ETL%20Specialist&descAlignY=58&descSize=18&descColor=c8f5ec"/>
 
-<h1 align="center">Hi, I'm Imen Ayadi</h1>
-<h3 align="center">Data Engineer &nbsp;·&nbsp; BI Developer &nbsp;·&nbsp; ETL Specialist</h3>
-<p align="center">MSc Data Analytics &nbsp;·&nbsp; Tunis, Tunisia &nbsp;·&nbsp; Open to opportunities</p>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Data+Engineer+%7C+BI+Developer;Building+pipelines+that+power+decisions;Humanitarian+data+for+real-world+impact)
-
-</div>
-
+<!-- BADGES ROW -->
 <p align="center">
   <a href="https://imen-ayadi.github.io">
-    <img src="https://img.shields.io/badge/My%20Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=25c49a"/></a>
   <a href="https://www.linkedin.com/in/imen-ayadi-29255617a/">
-    <img src="https://img.shields.io/badge/My%20LinkedIn-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=imen-ayadi&style=flat&color=004020" style="height:25px; object-fit:contain;"/>
-</p>
-
-### 📤 Find me on
-
-<p align="left">
-  <a href="mailto:imenayadi86@gmail.com">
-    <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
-  <a href="https://www.linkedin.com/in/imen-ayadi-29255617a/">
-    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=25c49a"/></a>
   <a href="https://www.kaggle.com/imenayadi">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-256.png" height="45"/></a> &nbsp;
+    <img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=25c49a"/></a>
   <a href="https://www.youtube.com/@AnalyticsSimplified-IA">
-    <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a>
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=25c49a"/></a>
+  <a href="mailto:imenayadi86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=25c49a"/></a>
 </p>
+
+<!-- PROFILE VIEWS + LOCATION -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imen-ayadi&style=flat-square&color=25c49a&label=Profile+Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Tunis,_Tunisia-0d1117?style=flat-square&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_to_opportunities-25c49a?style=flat-square&logoColor=white"/>
+</p>
+
+<br/>
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,postgresql,sqlserver,git,docker&perline=6" style="height:105px;"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=imen-ayadi&theme=highcontrast" height="105"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/> &nbsp;
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="28"/> &nbsp;
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/> &nbsp;
-  <img src="https://img.shields.io/badge/Talend-FF6D00?style=flat-square&logoColor=white" height="28"/> &nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28"/>
-</p>
-
----
-
-### 👩‍💻 About Me
-
-I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics, specialised in building ETL pipelines, star-schema warehouses, and interactive Power BI dashboards that turn raw data into real decisions.
-
-I've worked in humanitarian data with **IMPACT Initiatives** — building data infrastructure for field operations in Sudan and Libya.
-
-- 🔧 Building **ETL pipelines** with Python, Talend, and PostgreSQL
-- 📊 Designing **Power BI dashboards** from 1K to 100K+ row datasets
-- 🌍 Real-world **humanitarian analytics** experience (Sudan · Libya)
-- 🤖 MSc capstone: AI email system using RoBERTa, BERT & LLaMA-2
-- 🎓 MSc Data Analytics (16.5/20) &nbsp;·&nbsp; BSc Finance
+## 👩‍💻 About Me
 
 > *"A Finance background taught me how data drives decisions. Data Engineering gave me the tools to act on it."*
 
----
+I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), building the pipelines and dashboards that help organisations make better decisions — from humanitarian field operations to e-commerce analytics.
 
-### 🔭 Featured Projects
+```text
+🔧  ETL Pipelines     Python · Talend · PostgreSQL · Star Schema
+📊  BI & Reporting    Power BI · DAX · Tableau · Looker Studio
+☁️  Cloud & DevOps    Azure · Docker · Git
+🤖  ML & NLP          Scikit-learn · Transformers · RoBERTa · BERT
+🌍  Domain            Humanitarian Data · Healthcare · E-commerce
+```
 
-| Project | Stack | Link |
-|---------|-------|------|
-| 🌍 Sudan Humanitarian Data Infrastructure | PostgreSQL · Python · Azure · Power BI | [IMPACT Initiatives](https://www.impact-initiatives.org) |
-| 🏅 Olympic Games 2024 Dashboard | Power BI · DAX · Bing Maps | [GitHub](https://github.com/imen-ayadi/Olympics_2024) |
-| 🏥 National Health Analysis — 55K records | Power BI · Excel · Power Query | [GitHub](https://github.com/imen-ayadi/-National-Health-Analysis-Power-BI-Dashboard) |
-| 🕊️ Palestine-Israel Conflict Dashboard | Power BI · DAX · Data Journalism | [GitHub](https://github.com/imen-ayadi/Palestine-Israel-Conflict-Power-BI-Dashboard) |
-| 🛍️ Olist Sales Analysis — 99K+ orders | Power BI · Talend ETL · XGBoost · Python | [GitHub](https://github.com/imen-ayadi/Olist) |
-| 🏠 Libyan Household Realities | Power BI · DAX · Excel | [IMPACT Initiatives](https://www.impact-initiatives.org) |
-| 🤖 Smart Box — AI Email Management | Python · RoBERTa · BERT · LLaMA-2 · Docker | [GitHub](https://github.com/imen-ayadi/Smart-Box) |
+- 🏢 Currently: **Data Engineer @ IMPACT Initiatives** — humanitarian analytics for Sudan & Libya
+- 🎓 MSc Data Analytics, ESB Tunis &nbsp;·&nbsp; BSc Finance, MSB Tunis
+- 📺 Running **[Analytics Simplified](https://www.youtube.com/@AnalyticsSimplified-IA)** — data insights on YouTube
 
----
-
-### 🏆 Highlights
-
-- 🥇 **Best Project Award 2023** — Olist Sales Analysis (ETL + ML + BI pipeline)
-- 🌍 Humanitarian data engineering at **IMPACT Initiatives** — Sudan & Libya operations
-- 📊 Power BI dashboards used in real-world field decision-making
-- 🤖 Built end-to-end NLP system (Smart Box) for automated email management
-- 🎓 Certified: **Google Data Analytics** · **Microsoft PL-300** · **IBM Data Visualization**
+<br/>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imen-ayadi&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+**Core**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,postgresql,mysql,git,docker,azure,vscode&theme=dark"/>
 </p>
 
+**BI & Visualisation**
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="26"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Talend-FF6D00?style=flat-square&logoColor=white" height="26"/>
+</p>
+
+**ML & NLP**
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="26"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logoColor=white" height="26"/>
+</p>
+
+<br/>
+
 ---
 
-### 📈 GitHub Stats
+## 🔭 Featured Projects
+
+| # | Project | Stack | Link |
+|---|---------|-------|------|
+| 🌍 | **Sudan Humanitarian Data Infrastructure** — PostgreSQL star schema + Python ELT + Power BI across 55 clusters | PostgreSQL · Python · Azure · Power BI | [IMPACT Initiatives](https://www.impact-initiatives.org) |
+| 🏅 | **Olympic Games 2024 Dashboard** — athlete performance, medal counts, Paris 2024 | Power BI · DAX · Bing Maps | [GitHub](https://github.com/imen-ayadi/Olympics_2024) |
+| 🏥 | **National Health Analysis** — 55,500 patient records across 10 US hospitals | Power BI · Excel · Power Query | [GitHub](https://github.com/imen-ayadi/-National-Health-Analysis-Power-BI-Dashboard) |
+| 🕊️ | **Palestine-Israel Conflict Dashboard** — casualties, infrastructure, financial impact | Power BI · DAX · Data Journalism | [GitHub](https://github.com/imen-ayadi/Palestine-Israel-Conflict-Power-BI-Dashboard) |
+| 🛍️ | **Olist Sales Analysis** — 99K+ orders, ETL pipeline, XGBoost ML (88.4% accuracy) | Talend · Power BI · XGBoost · Python | [GitHub](https://github.com/imen-ayadi/Olist) |
+| 🏠 | **Libyan Household Realities** — 1,109 households, service gaps, humanitarian planning | Power BI · DAX · Excel | [IMPACT Initiatives](https://www.impact-initiatives.org) |
+| 🤖 | **Smart Box** — AI email management: categorisation, NER, sentiment, summarisation, response gen | RoBERTa · BERT · LLaMA-2 · Docker | [GitHub](https://github.com/imen-ayadi/Smart-Box) |
+
+<br/>
+
+---
+
+## 🏆 Highlights
+
+<table>
+<tr>
+<td>🥇</td><td><b>Best Project Award 2023</b> — Olist Sales Analysis (end-to-end ETL + ML + BI)</td>
+</tr>
+<tr>
+<td>🌍</td><td>Humanitarian data engineering at <b>IMPACT Initiatives</b> — Sudan & Libya field operations</td>
+</tr>
+<tr>
+<td>🤖</td><td>Built NLP capstone <b>Smart Box</b> — 5-module AI email pipeline deployed on Hugging Face Spaces</td>
+</tr>
+<tr>
+<td>🎓</td><td>Certified: <b>Google Data Analytics</b> · <b>Microsoft PL-300</b> · <b>IBM Data Visualization</b> · <b>DeepLearning.AI</b></td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imen-ayadi&show_icons=true&theme=highcontrast" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imen-ayadi&layout=compact&theme=highcontrast" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imen-ayadi&show_icons=true&theme=github_dark&hide_border=true&icon_color=25c49a&title_color=25c49a" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imen-ayadi&layout=compact&theme=github_dark&hide_border=true&title_color=25c49a" height="155"/>
 </p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=imen-ayadi&theme=github-dark-blue&hide_border=true&ring=25c49a&fire=25c49a&currStreakLabel=25c49a" height="155"/>
+</p>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imen-ayadi&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
+</p>
+
+<br/>
 
 ---
 
 ![Snake Animation](https://raw.githubusercontent.com/imen-ayadi/imen-ayadi/output/github-contribution-grid-snake-dark.svg)
+
+<!-- FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a7a64,25c49a&height=100&section=footer"/>
