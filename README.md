@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a7a64,25c49a&height=180&section=header&text=Imen%20Ayadi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20BI%20Developer%20%C2%B7%20ETL%20Specialist&descAlignY=58&descSize=18&descColor=c8f5ec"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0,0d2b22,1a7a64,25c49a&height=200&section=header&text=Imen%20Ayadi&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Data%20Engineer%20%C2%B7%20BI%20Developer%20%C2%B7%20ETL%20Specialist&descAlignY=60&descSize=18&descColor=c8f5ec"/>
 
 <!-- BADGES ROW -->
 <p align="center">
@@ -29,9 +29,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=2000&color=25C49A&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+BI+Developer+%7C+ETL+Specialist;Building+pipelines+that+power+decisions+%F0%9F%94%A7;Turning+raw+data+into+real-world+impact+%F0%9F%8C%8D;MSc+Data+Analytics+%C2%B7+Tunis%2C+Tunisia+%F0%9F%8C%BF"/>
 </p>
 
-<br/>
-
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
 
 ## 👩‍💻 About Me
 
@@ -51,9 +50,8 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 - 🎓 MSc Data Analytics, ESB Tunis &nbsp;·&nbsp; BSc Finance, MSB Tunis
 - 📺 Running **[Analytics Simplified](https://www.youtube.com/@AnalyticsSimplified-IA)** on YouTube
 
-<br/>
-
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -82,9 +80,8 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
   <img src="https://img.shields.io/badge/XGBoost-AA0000?style=flat-square&logoColor=white" height="26"/>
 </p>
 
-<br/>
-
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
 
 ## 🔭 Featured Projects
 
@@ -98,9 +95,8 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 | 🏠 | **Libyan Household Realities** — 1,109 households, service gaps, humanitarian planning | Power BI · DAX · Excel | [IMPACT Initiatives](https://www.impact-initiatives.org) |
 | 🤖 | **Smart Box** — AI email management: categorisation, NER, sentiment, summarisation, response gen | RoBERTa · BERT · LLaMA-2 · Docker | [GitHub](https://github.com/imen-ayadi/Smart-Box) |
 
-<br/>
-
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
 
 ## 🏆 Highlights
 
@@ -119,17 +115,14 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 </tr>
 </table>
 
-<br/>
-
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
 
 ## 📊 Activity Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imen-ayadi&theme=react-dark&color=25c49a&line=25c49a&point=ffffff&area=true&area_color=1a7a64&hide_border=true"/>
 
 <br/>
-
----
 
 ## 📈 GitHub Stats
 
@@ -142,9 +135,8 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
   <img src="https://streak-stats.demolab.com/?user=imen-ayadi&theme=github-dark-blue&hide_border=true&ring=25c49a&fire=25c49a&currStreakLabel=25c49a" height="155"/>
 </p>
 
-<br/>
-
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -154,9 +146,7 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 
 <br/>
 
----
-
 ![Snake Animation](https://raw.githubusercontent.com/imen-ayadi/imen-ayadi/output/github-contribution-grid-snake-dark.svg)
 
 <!-- FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1a7a64,25c49a&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0,0d2b22,1a7a64,25c49a&height=120&section=footer&animation=fadeIn"/>
