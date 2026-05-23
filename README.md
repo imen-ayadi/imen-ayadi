@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0,0d2b22,1a7a64,25c49a&height=200&section=header&text=Imen%20Ayadi&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Data%20Engineer%20%C2%B7%20BI%20Developer%20%C2%B7%20ETL%20Specialist&descAlignY=60&descSize=18&descColor=c8f5ec"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d2b22,1a7a64,25c49a&height=200&section=header&text=Imen%20Ayadi&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%C2%B7%20BI%20Developer%20%C2%B7%20ETL%20Specialist&descAlignY=56&descSize=18&descColor=c8f5ec"/>
 
 <!-- BADGES ROW -->
 <p align="center">
@@ -32,10 +32,12 @@
 <!-- PORTFOLIO CTA -->
 <p align="center">
   <a href="https://imen-ayadi.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a7a64,25c49a&height=60&text=🌐%20%20View%20My%20Full%20Portfolio%20%20→&fontSize=22&fontColor=ffffff&animation=fadeIn" width="480"/>
+    <img src="https://img.shields.io/badge/🌐%20%20View%20My%20Full%20Portfolio%20%20→-1a7a64?style=for-the-badge&logoColor=white" height="42"/>
   </a>
 </p>
-<p align="center"><sub>Projects · Experience · Certifications · Contact — all in one place</sub></p>
+<p align="center">
+  <sub>✦ Projects &nbsp;·&nbsp; Experience &nbsp;·&nbsp; Certifications &nbsp;·&nbsp; Contact ✦</sub>
+</p>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-98b0-5f95e02b1a3b.gif" width="100%"/>
@@ -157,4 +159,4 @@ I'm a **Data Engineer & BI Developer** with an MSc in Data Analytics (16.5/20), 
 ![Snake Animation](https://raw.githubusercontent.com/imen-ayadi/imen-ayadi/output/github-contribution-grid-snake-dark.svg)
 
 <!-- FOOTER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0,0d2b22,1a7a64,25c49a&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d2b22,1a7a64,25c49a&height=120&section=footer&animation=fadeIn"/>
