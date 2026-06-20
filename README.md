@@ -130,7 +130,7 @@
 <td>🤖</td><td>Built NLP capstone <b>Smart Box</b> — 5-module AI email pipeline deployed on Hugging Face Spaces</td>
 </tr>
 <tr>
-<td>🎓</td><td>Certified: <b>Google Data Analytics</b> · <b>Microsoft PL-300</b> · <b>IBM Data Visualizations</b> · <b>DeepLearning.AI</b></td>
+<td>🎓</td><td>Certified: <b>Google Data Analytics</b> · <b>Microsoft PL-300</b> · <b>IBM Data Visualization</b> · <b>DeepLearning.AI</b></td>
 </tr>
 </table>
 
