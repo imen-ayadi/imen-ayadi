@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d2b22,1a7a64,25c49a&height=200&section=header&text=Imen%20Ayadi&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%C2%B7%20BI%20Developer%20%C2%B7%20ETL%20Specialist&descAlignY=56&descSize=18&descColor=c8f5ec"/>
 
-<!-- BADGES ROW -->
+<!-- BADGES ROWS -->
 <p align="center">
   <a href="https://imen-ayadi.github.io">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=25c49a"/></a>
